@@ -16,6 +16,11 @@ h6 {
     font-weight: 700;
 }
 
+
+.logo{
+  height:50px;
+  width: 60px;
+}
 .topnav {
     font-size: 16px;
     border-bottom: 1px outset rgba(192, 192, 192, 0.5);
@@ -82,9 +87,10 @@ color: #000;
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 /*small header*/
-.intro-message > h3 {
+.intro-message > h2 {
     text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
-  color: black;
+    font-size: 3em;
+    color: rgba(200, 255, 255, 0.7);
 }
 
 @media(max-width:767px) {
