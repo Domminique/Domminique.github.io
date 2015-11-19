@@ -50,9 +50,14 @@ color: #000;
 }
 
 .lead {
-    font-size: 18px;
-    font-weight: 400;
+
+    font-family: cursive;
+    margin-top: -10px;
+    text-shadow: 1px 1px 1px #000;
+    font-size: 3em;
+    color: rgba(255, 255, 255, 0.7);
 }
+
 /*top background*/
 .intro-header {
     height: 855px;  
@@ -84,6 +89,13 @@ color: #000;
 .intro-divider {
     width: 400px;
     border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+
+.entro-divider {
+    width: 350px;
+    border-top: 2px solid #f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 /*small header*/
@@ -126,11 +138,11 @@ hr.intro-divider {
 .btn {
   display: inline-block;
   color: #000;
-  border: 2px outset rgba(0, 0, 0, 0.9);
+  border: 2px outset rgba(1, 0, 0, 0.9);
   background: #C0C0C0;
   text-shadow: 1px 1px 1px rgba(0,0,0, 20);
   box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   transition: 0.2s;
 }
 
@@ -198,7 +210,7 @@ h2.section-heading {
 /* Portfolio section*/
 section {
   color: black;
-  background: url('images/3d10.jpg') no-repeat center center fixed;
+  background: url('images/3d10.jpg') no-repeat center center scroll;
   background-size: cover;
 }
 
@@ -373,7 +385,7 @@ h2.connect {
 
 footer {
     padding: 50px 0;
-    background: rgba(192, 192, 192, 0.9);
+    background: rgba(0, 0, 0, 0.9);
 }
 
 p.copyright {
