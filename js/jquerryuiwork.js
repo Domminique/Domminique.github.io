@@ -3,7 +3,7 @@ $(document).ready(function()
 $("#accordion").accordion();
 $( "#tabs" ).tabs();
 
-var listTemplate='
+v/*ar listTemplate='
 
 
       <ul>
@@ -18,7 +18,7 @@ var listTemplate='
 
         ';
 
-       /* var listTemplate='';
+        var listTemplate='';
         listTemplate +='<ul>';
         listTemplate += '<li>';
         listTemplate += '<h1><a href="#repo_link">Repository title</a></h1>';
