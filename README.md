@@ -1,37 +1,14 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
+# [Savanaspace](http://savanaspace.co.ke/) - 
 
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+[Savannaspace ](http://savanaspace.co.ke.com//) is new-age boutique software lab that delivers cutting-edge products and solutions for customers globally. We are different in a number of ways, we take up only select projects and we are passionate about making your product super-successful. We are known for our exceptional quality, innovation and timely delivery for every project we undertake...
 
-## Getting Started
 
-Several options are available to get started quickly:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/agency/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
-* Fork the repo
+## What We Do
 
-## Developing Using Source Files
+The services we provide range from traditional web design and development to projects that demand a tight integration of hard- and software. Our clients know that we go the extra mile to amaze them, overdelivering instead of just fulfilling their expectations.
 
-To use the source files, you will need to have npm installed globally along with Gulp.js. To start:
-* Run `npm install` in the root directory
-* Run `gulp dev` and edit the files as needed
-
-If you need to update the plugins included with this template, simply run the following tasks:
-* First run `npm update` to update the dependencies
-* Then run `gulp copy` to copy the new versions to their proper destinations
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
+Clients don't always know what the final product should look like in terms of user interface and usability. That is part of the developer's responsibility. SavannaSpace end-to-end solutions to ensure that the client doesn't need to worry about details and technical hurdles
+ 
 ## Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+Copyright 2017-2018 Savannaspace  LLC. Code released under the [Savannaspace ](https://github.com/Savannaspace /Savannaspace -agency/blob/gh-pages/LICENSE) license.
